@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.1.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>100</y>
+      <w>320</w>
+      <h>420</h>
+    </coordinates>
+    <panel_attributes>--
+_Slarker team, sprint 1_
+
+--
+Sprint goal
+- 完成账户管理板块
+
+Sprint backlog
+- 注册账号 (4)
+- 登录账号 (3)
+- 登出账号 (2)
+
+Estimated velocity: 9
+
+Schedule
+-Sprint period: 2016-04-05 to 2016-04-12
+-Sprint demo:   2016-04-12, 22:00
+-Weekly scrum:  Fri, 22:00
+
+Team
+- Zaihua Lin (scrum master)
+- Yiting Lin
+- Jiahao He
+- Longyue Han
+- Honglang Guan
+- Wenjie He
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
